@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Envntory | An inventory System](https://github.com/iamtakdir/envantory)
 
-- 🌱 I’m currently learning **Go Language, GraphQl, Django**
+- 🌱 I’m currently learning **Go Language, GraphQL, Django**
 
 - 👨‍💻 All of my projects are available at [https://takdir.me](https://takdir.me)
 
