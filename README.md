@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamtakdir" target="blank"><img src="https://img.shields.io/twitter/follow/iamtakdir?logo=twitter&style=for-the-badge" alt="iamtakdir" /></a> </p>
 
-- 🔭 I’m currently working on [Mojud| An inventory System](https://github.com/iamtakdir/mojud)
+- 🔭 I’m currently working on [Omega Solution Smart ERP](https:solution.omega.ac)
 
 - 🌱 I’m currently learning **Go Language, JavaScript, Django**
 
